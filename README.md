@@ -20,7 +20,7 @@
 
 <p>Repositorio para arquivos e codigos fonte "AI_ONE".</p>
 
-<h2>dispositivos de entrada e saida (GPIO)</h2>
+<h2>Dispositivos de entrada e saida (GPIO)</h2>
 
 <h3>Pinout</h3>
 
@@ -31,7 +31,7 @@
 |Servo motor Sg90|D6|
 |Display Oled SSD1306|A4 - A5|
 |Buzzer|A7|
-|infra-red Lm393|A0 - A3 - A6|
+|Infra-red Lm393|A0 - A3 - A6|
 |Serial port|D0 - D1|
 
 <h2>Licença</h2>

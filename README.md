@@ -1,15 +1,13 @@
-# Armi_AI_one
+<h1>Descrição:</h1>
+<p>Repositorio para arquivos e codigos fonte "AI_ONE"</p>
 
---  Descrição:
-Repositório para os arquivos e códigos fontes do “AI_one”
-
--- Diagrama de portas:
+<h1>Diagrama de portas:</h1>
 
 <img src="https://user-images.githubusercontent.com/66965698/155246803-aa93cbc4-718a-4410-8f0a-d1f64603e3db.png" style="width: 800px;"></img>
 
 
 
-Tecnologias:
+<h1>Tecnologias:</h1>
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img>

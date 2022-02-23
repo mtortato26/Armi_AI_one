@@ -1,14 +1,23 @@
 <img src="https://user-images.githubusercontent.com/66965698/155249471-f8534194-d033-4d86-92fe-ba95b5cd3d74.png"></img>
 
-<h1>Armi AI One:</h1>
-<p>Repositorio para arquivos e codigos fonte "AI_ONE"</p>
+<p>Repositorio para arquivos e codigos fonte "AI_ONE".</p>
 
-<h1>Tabela de portas:</h1>
+<h2>Devices input/output (GPIO)</h2>
 
-<img src="https://user-images.githubusercontent.com/66965698/155246803-aa93cbc4-718a-4410-8f0a-d1f64603e3db.png" style="width: 800px;"></img>
+<h3>Pinout</h3>
+
+|Arduino nano|A0 - A7 -- D0 - D13|
+|---|---|
+|Ethernet Shield Enc28j60|D10 - D13|
+|Drive H L9110s|D2 - D5|
+|Servo motor Sg90|D6|
+|Display Oled SSD1306|A4 - A5|
+|Buzzer|A7|
+|infra-red Lm393|A0 - A3 - A6|
+|Serial port|D0 - D1|
 
 
-<h1>Tecnologias:</h1>
+<h2>Tecnologias:</h2>
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img>
@@ -18,3 +27,6 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"></img>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img>
+
+<h2>License</h2>
+<p>Copyright (c) 2021-2022 Armi corporation All rights reserved.</p>

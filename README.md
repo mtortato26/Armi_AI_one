@@ -1,10 +1,11 @@
-<h1>Descrição:</h1>
+<img src="https://user-images.githubusercontent.com/66965698/155249471-f8534194-d033-4d86-92fe-ba95b5cd3d74.png"></img>
+
+<h1>Armi AI One:</h1>
 <p>Repositorio para arquivos e codigos fonte "AI_ONE"</p>
 
-<h1>Diagrama de portas:</h1>
+<h1>Tabela de portas:</h1>
 
 <img src="https://user-images.githubusercontent.com/66965698/155246803-aa93cbc4-718a-4410-8f0a-d1f64603e3db.png" style="width: 800px;"></img>
-
 
 
 <h1>Tecnologias:</h1>

@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/66965698/155249471-f8534194-d033-4d86-92fe-ba95b5cd3d74.png" />
 </p>
 
-<h1 align="center">Armi AR ONE</h1>
+<h1 align="center">Delux DX ONE</h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img>
@@ -18,7 +18,7 @@
 
 <h2>Descrição</h2>
 
-<p>Repositorio para arquivos e codigos fonte "AR".</p>
+<p>Repositorio para arquivos e codigos fonte "DX".</p>
 
 <h2>Dispositivos de entrada e saida (GPIO)</h2>
 
@@ -35,4 +35,4 @@
 |Serial port|D0 - D1|
 
 <h2>Licença</h2>
-<p>Copyright (c) 2021-2022 Armi corporation All rights reserved.</p>
+<p>Copyright (c) 2021-2022 Delux corporation All rights reserved.</p>
